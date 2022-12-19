@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Pura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "objectid": 4504, "fgsprp": 3, "metadata": null, "fcode": "GF01030020", "namaobj": "PURA AGUNG GIRI NATHA", "srs_id": 0, "remark": "PURA", "wadmpr": "JAWA TENGAH", "alamat": "JALAN SUMBING", "laman": "https:\/\/gis.dukcapil.kemendagri.go.id\/" }, "geometry": { "type": "Point", "coordinates": [ 110.410480000530754, -6.999189999753061 ] } },
+{ "type": "Feature", "properties": { "objectid": 5227, "fgsprp": 3, "metadata": null, "fcode": "GF01030020", "namaobj": "PURA AMERTHA SARI", "srs_id": 0, "remark": "PURA", "wadmpr": "JAWA TENGAH", "alamat": "JALAN TAMAN UDAN RIRIS I", "laman": "https:\/\/gis.dukcapil.kemendagri.go.id\/" }, "geometry": { "type": "Point", "coordinates": [ 110.462640000173437, -6.984629999843106 ] } }
+]
+}
